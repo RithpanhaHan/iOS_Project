@@ -6,4 +6,4 @@ Assignment: Practice GitHub
 2) Edit team_name.txt and put your name
 3) make pull request to me 
 
-Deadline: sunday.
+Deadline: Sunday Mar 6, 2022
